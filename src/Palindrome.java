@@ -1,5 +1,4 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
+//leetcode problem: https://leetcode.com/problems/palindrome-number/
 
 class Palindrome {
     public boolean isPalindrome(int x) {
